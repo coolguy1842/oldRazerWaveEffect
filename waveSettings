@@ -1,0 +1,19 @@
+basehue = 0.64
+
+maxhue = 0.82
+
+colorstep = 0.01
+
+colorbackstep = 0.025
+
+speed = 0.06
+
+backwards = False
+
+showWorkspace = False
+
+doResetOnScriptChange = False
+
+watchConfig = False
+
+checkVM = True
